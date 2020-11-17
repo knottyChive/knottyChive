@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on a trending video platform called Park.
+- 🔭  I’m currently working on a Rick and Morty frontend called Park.
 - 🌱  I’m currently learning Django for a school project.
 - 👯  I’m looking to collaborate on NodeJS web projects.
 - 🤔  I’m looking for help with ...
